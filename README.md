@@ -1,17 +1,24 @@
 
 ## Dev
 
+
+# 安装依赖
+
+
 ```bash
-# 开发预览
-# yarn dev
 npm i
+```
+
+# 开发预览
+```bash
 npm run dev 
+```
 
 # http://localhost:3000/
 
 # 构建项目
+```bash
 npm run  build
-# ./build
 ```
 
 ### 环境变量
